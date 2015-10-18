@@ -1,0 +1,18 @@
+{
+    "contents" : "\n\ninstall.packages('knitr', dependencies = TRUE)\n\nlibrary(knitr)\n\n##Warning message:\n##package ‘knitr’ was built under R version 3.2.2",
+    "created" : 1445144035522.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1712564017",
+    "id" : "5811B2BC",
+    "lastKnownWriteTime" : 1445145385,
+    "path" : "C:/Users/dpcortes/Desktop/Yo/R/Reproducible Research/Proyectos/Semana 2.R",
+    "project_path" : "Semana 2.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
